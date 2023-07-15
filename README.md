@@ -27,5 +27,8 @@ You'll need to install the following packages in order to run the codes.
 For the step-by-step tutorial, please refer to:
 [https://deepst-tutorials.readthedocs.io/en/latest/](https://deepst-tutorials.readthedocs.io/en/latest/)
 
+## Spatial transcriptomics data
+The used ST datasets have been uploaded to Zenodo, they are is freely available at [https://zenodo.org/record/8141084](https://zenodo.org/record/8141084)
+
 ## Citation
 ...
